@@ -86,13 +86,13 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate"
+      "owner": "upnotes-team",
+      "repo": "electron-test-actions"
     }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
+    "url": "git+https://github.com/upnotes-team/electron-test-actions.git"
   },
   "author": {
     "name": "Electron React Boilerplate Maintainers",
